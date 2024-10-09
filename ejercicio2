@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cabeceras HTML</title>
+</head>
+<body>
+    <h1>Este es el nivel 1 de cabecera</h1>
+    <p>Texto bajo el nivel 1 de cabecera. Esta es la cabecera más grande.</p>
+
+    <h2>Este es el nivel 2 de cabecera</h2>
+    <p>Texto bajo el nivel 2 de cabecera. Aún es grande, pero más pequeña que la anterior.</p>
+
+    <h3>Este es el nivel 3 de cabecera</h3>
+    <p>Texto bajo el nivel 3 de cabecera. Un tamaño medio de cabecera.</p>
+
+    <h4>Este es el nivel 4 de cabecera</h4>
+    <p>Texto bajo el nivel 4 de cabecera. Esta cabecera es más pequeña que la de nivel 3.</p>
+
+    <h5>Este es el nivel 5 de cabecera</h5>
+    <p>Texto bajo el nivel 5 de cabecera. Es bastante pequeña.</p>
+
+    <h6>Este es el nivel 6 de cabecera</h6>
+    <p>Texto bajo el nivel 6 de cabecera. La cabecera más pequeña.</p>
+</body>
+</html>
