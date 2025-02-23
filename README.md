@@ -144,7 +144,7 @@ Cada actividad incluye:
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/jaqutay680
+git clone https://github.com/jaqutay680/Lenguaje-De-Marca
 ```
 
 2. Abre el archivo `index.html` de la actividad deseada en tu navegador favorito.
