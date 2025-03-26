@@ -9,7 +9,7 @@
   ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░╚═╝      ░╚════╝░╚═════╝░╚═════╝░
 ```
 ## ℹ️ Descripción
-Este repositorio contiene las actividades de HTML realizadas durante el curso de [Lenguaje De Marca]. Cada actividad representa un ejercicio práctico para desarrollar y mejorar habilidades en:
+Repositorio con todas las actividades prácticas de HTML, CSS y JavaScript del curso de Lenguaje de Marcas.
 
 - Creación de estructuras semánticas.
 - Uso de etiquetas HTML fundamentales.
@@ -79,10 +79,8 @@ Cada actividad incluye:
 - Una estructura de código clara.
 - Uso de buenas prácticas de desarrollo web.
 --------------------------------------------------------------------------
-## 📊 Tecnologías Utilizadas
-
-- **HTML5**: Lenguaje base para la estructura del contenido.
-- **CSS3**: Para mejorar la estética de las actividades.
+🛠️ Tecnologías Utilizadas
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> </p> ```
 
 ## 🎨 Ejemplo de Código
 
