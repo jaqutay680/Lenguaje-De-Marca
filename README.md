@@ -74,6 +74,8 @@ Cada carpeta o archivo corresponde a una actividad específica:
 - [Ejercicio 6](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio6)
 - [Ejercicio 7](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio7)
 - [Ejercicio 8](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio8)
+### 🚀 Proyecto Bootstrap
+- [Web Cupra](https://github.com/jaqutay680/ProyectoBootstrap)
 --------------------------------------------------------------------------
 Cada actividad incluye:
 - Una estructura de código clara.
