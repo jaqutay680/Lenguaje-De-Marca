@@ -1,4 +1,4 @@
-# 📚 Proyecto HTML: Actividades de Clase [Lenguaje de Marcas]
+# 📚 Actividades de Clase [Lenguaje de Marcas]
 
 ```html
   ██╗  ██╗████████╗███╗░░░███╗      ░█████╗░██████╗░██████╗
