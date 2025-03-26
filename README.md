@@ -97,11 +97,11 @@ git clone https://github.com/jaqutay680/Lenguaje-De-Marca
 
 2. Abre el archivo `index.html` de la actividad deseada en tu navegador favorito.
 
-## 👨🏼‍💻 Autor
-Creado por **José Ángel**, estudiante de **IES La Marisma**.
+## 👨‍💻 Autor
+**José Ángel** - Estudiante de Desarrollo Web en IES La Marisma
 
-Si tienes preguntas o sugerencias, no dudes en contactarme a través de **jaqutay680@g.educaand.es**.
-
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/jaqutay680)
+✉️ Contacto: [jaqutay680@g.educaand.es](mailto:jaqutay680@g.educaand.es)
 ---
 <p align="center">
 🚀 <em>"El código no se escribe, se vive"</em> 🚀
