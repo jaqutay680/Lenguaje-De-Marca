@@ -84,8 +84,8 @@ Cada actividad incluye:
 
 ## 📈 Progreso del Curso
 - ✅ 1º Trimestre: HTML completado (22 ejercicios)
-- 🟡 2º Trimestre: CSS y JS en progreso
-- 🔜 3º Trimestre: Próximamente...
+- ✅ 2º Trimestre: CSS y JS completado (20 ejercicios)
+- 🟡 3º Trimestre: en progreso
 
 ## ✅ Cómo Visualizar las Actividades
 
