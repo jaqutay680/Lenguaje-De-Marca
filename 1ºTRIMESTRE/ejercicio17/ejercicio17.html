@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultado de la Búsqueda</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+
+        h1, h2 {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 80%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            background-color: #fff;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        td {
+            text-align: left;
+        }
+
+        .image-cell {
+            text-align: center;
+        }
+
+        .image-cell img {
+            width: 80px;
+            height: auto;
+        }
+
+        .price {
+            color: red;
+            font-weight: bold;
+        }
+
+        .discounted {
+            text-decoration: line-through;
+            color: gray;
+        }
+
+        .buy-link {
+            color: blue;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Resultado de la búsqueda</h1>
+    <h2>Resultado de la búsqueda</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Imagen</th>
+                <th>Datos</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="image-cell">
+                    <img src="portatil.png" alt="Portátil">
+                </td>
+                <td>
+                    <strong>Portátil - 3 GHz - 4 GB RAM</strong><br>
+                    <a href="#" class="buy-link">Comprar:</a>
+                    <span class="discounted">2.999 €</span>
+                    <span class="price">2.599 €</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="image-cell">
+                    <img src="videocamara.png" alt="Videocámara">
+                </td>
+                <td>
+                    <strong>Videocámara - Alta definición 1080p - 60 GB</strong><br>
+                    <a href="#" class="buy-link">Comprar:</a>
+                    <span class="discounted">1.099 €</span>
+                    <span class="price">999 €</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="image-cell">
+                    <img src="tv.png" alt="Televisor">
+                </td>
+                <td>
+                    <strong>Televisor - 46" - Full HD</strong><br>
+                    <a href="#" class="buy-link">Comprar:</a>
+                    <span class="discounted">1.999 €</span>
+                    <span class="price">1.799 €</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="image-cell">
+                    <img src="movil.png" alt="Móvil">
+                </td>
+                <td>
+                    <strong>Móvil - 3G - Wi-Fi - 8 GB</strong><br>
+                    <a href="#" class="buy-link">Comprar:</a>
+                    <span class="discounted">399 €</span>
+                    <span class="price">349 €</span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
