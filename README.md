@@ -102,8 +102,7 @@ Creado por **José Ángel**, estudiante de **IES La Marisma**.
 
 Si tienes preguntas o sugerencias, no dudes en contactarme a través de **jaqutay680@g.educaand.es**.
 
---------------------------------------------------------------------------
-
-💪 **"El código no se escribe, se vive."** 💪
-
---------------------------------------------------------------------------
+---
+<p align="center">
+🚀 <em>"El código no se escribe, se vive"</em> 🚀
+</p>
