@@ -18,93 +18,62 @@ Este repositorio contiene las actividades de HTML realizadas durante el curso de
 ## 🔗 Estructura del Repositorio
 
 Cada carpeta o archivo corresponde a una actividad específica:
+## 🌐 Acceso rápido a los repositorios
+- [1º Trimestre - HTML](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/1%C2%BATRIMESTRE)
+- [2º Trimestre - CSS y JavaScript](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE)
 
+## 📂 Ejercicios del 1º Trimestre (HTML)
 
-### Actividades incluidas:
+### 🖼️ Ejercicios con imágenes
+- [Ejercicio 8 - Portfolio](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/1%C2%BATRIMESTRE/Ejercicio8)
+- [Ejercicio 17 - Dispositivos electrónicos](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/1%C2%BATRIMESTRE/ejercicio17)
+- [Ejercicio 18 - Productos de colores](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/1%C2%BATRIMESTRE/ejercicio18)
+- [Ejercicio 19 - Imágenes laterales](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/1%C2%BATRIMESTRE/ejercicio19)
 
-- **Ejercicio 1**: `ejercicio1.html`
+### 📄 Ejercicios individuales
+- [Ejercicio 1](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio1.html)
+- [Ejercicio 2](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio2.html)
+- [Ejercicio 3](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio3.html)
+- [Ejercicio 4](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio4.html)
+- [Ejercicio 5](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio5.html)
+- [Ejercicio 6](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio6.html)
+- [Ejercicio 7](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio7.html)
+- [Ejercicio 10](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio10.html)
+- [Ejercicio 11](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio11.html)
+- [Ejercicio 12](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio12.html)
+- [Ejercicio 13](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio13.html)
+- [Ejercicio 14](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio14.html)
+- [Ejercicio 15](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio15.html)
+- [Ejercicio 16](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio16.html)
+- [Ejercicio 20](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio20.html)
+- [Ejercicio 21](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio21.html)
+- [Ejercicio 22](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio22.html)
 
-- **Ejercicio 2**: `ejercicio2.html`
+## 🎨 Ejercicios del 2º Trimestre (CSS y JavaScript)
 
-- **Ejercicio 3**: `ejercicio3.html`
+### 🖌️ CSS
+- [Ejercicio 1 - Estilos básicos](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/CSS/ejercicio1)
+- [Ejercicio 2 - Imágenes con estilo](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/CSS/ejercicio2)
+- [Ejercicio 11 - Galería de imágenes](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/CSS/ejercicio11)
+- [Ejercicio 3](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio3.html)
+- [Ejercicio 4](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio4.html)
+- [Ejercicio 5](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio5.html)
+- [Ejercicio 6](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio6.html)
+- [Ejercicio 7 (TXT)](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio7.txt)
+- [Ejercicio 8 (TXT)](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio8.txt)
+- [Ejercicio 9 (TXT)](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio9.txt)
+- [Ejercicio 10](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio10.html)
+- [Ejercicio 12](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio12.html)
 
-- **Ejercicio 4**: `ejercicio4.html`
-
-- **Ejercicio 5**: `ejercicio5.html`
-
-- **Ejercicio 6**: `ejercicio6.html`
-
-- **Ejercicio 7**: `ejercicio7.html`
-- **Ejercicio 8**:
-  ```plaintext
-  Lenguaje-De-Marca/
-  └── Ejercicio8/
-      ├── imagenes/
-      │   ├── bienvenida.jpg
-      │   ├── proyecto1.jpg
-      │   └── proyecto2.jpg
-      ├── portfolio/
-      │   ├── index.html
-      │   ├── proyecto1.html
-      │   └── proyecto2.html
-      ├── estilos.css
-      └── index.html
-- **Ejercicio 9**: `ejercicio9.html`
-
-- **Ejercicio 10**: `ejercicio10.html`
-
-- **Ejercicio 11**: `ejercicio11.html`
-
-- **Ejercicio 12**: `ejercicio12.html`
-
-- **Ejercicio 13**: `ejercicio13.html`
-
-- **Ejercicio 14**: `ejercicio14.html`
-
-- **Ejercicio 15**: `ejercicio115.html`
-
-- **Ejercicio 16**: `ejercicio16.html`
-
-- **Ejercicio 17**:
-  ```plaintext
-  Lenguaje-De-Marca/
-  └── Ejercicio17/
-      ├── ejercicio17.html
-      ├── movil.png
-      ├── portatil.png
-      ├── tv.png
-      └── videocamara.png
-
-- **Ejercicio 18**:
-  ```plaintext
-  Lenguaje-De-Marca/
-  └── Ejercicio18/
-      ├── color_azul.png
-      ├── color_blanco.png
-      ├── color_negro.png
-      ├── color_rosa.png
-      ├── color_verde.png
-      ├── ejercicio18.html
-      ├── mp3_grande_blanco.png
-      ├── mp3_grande_negro.png
-      ├── mp3_pequeno_blanco.png
-      └── mp3_pequeno_negro.png
-
-
-- **Ejercicio 19**:
-  ```plaintext
-  Lenguaje-De-Marca/
-  └── Ejercicio19/
-      ├── ejercicio19.html
-      ├── imagen_derecha.png
-      └── imagen_izquierda.png
-
-- **Ejercicio 20**:
-ejercicio20.html
-- **Ejercicio 21**:
-ejercicio21.html
-- **Ejercicio 22**:
-ejercicio22.html
+### ⚙️ JavaScript
+- [Ejercicio 1 - Hola Mundo](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio1)
+- [Ejercicio 2 - Funciones básicas](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio2)
+- [Ejercicio 3 - Galería de coches](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio3)
+- [Ejercicio 4](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio4)
+- [Ejercicio 5 - Selección de coches](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio5)
+- [Ejercicio 6](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio6)
+- [Ejercicio 7](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio7)
+- [Ejercicio 8](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio8)
 --------------------------------------------------------------------------
 Cada actividad incluye:
 - Una estructura de código clara.
