@@ -48,9 +48,9 @@ Cada carpeta o archivo corresponde a una actividad específica:
 - [Ejercicio 20](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio20.html)
 - [Ejercicio 21](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio21.html)
 - [Ejercicio 22](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/1%C2%BATRIMESTRE/ejercicio22.html)
-
+---
 ## 📂 Ejercicios del 2º Trimestre (CSS y JavaScript)
-
+---
 ### 🖌️ CSS
 - [Ejercicio 1 - Estilos básicos](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/CSS/ejercicio1)
 - [Ejercicio 2 - Imágenes con estilo](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE/CSS/ejercicio2)
