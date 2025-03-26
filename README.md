@@ -82,29 +82,10 @@ Cada actividad incluye:
 🛠️ Tecnologías Utilizadas
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> </p> 
 
-## 🎨 Ejemplo de Código
-
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ejemplo</title>
-</head>
-<body>
-    <header>
-        <h1>Bienvenido a mi actividad de HTML</h1>
-    </header>
-    <main>
-        <p>Este es un ejemplo sencillo de una estructura HTML.</p>
-    </main>
-    <footer>
-        <p>&copy; 2024 -José Ángel</p>
-    </footer>
-</body>
-</html>
-```
+## 📈 Progreso del Curso
+- ✅ 1º Trimestre: HTML completado (22 ejercicios)
+- 🟡 2º Trimestre: CSS y JS en progreso
+- 🔜 3º Trimestre: Próximamente...
 
 ## ✅ Cómo Visualizar las Actividades
 
