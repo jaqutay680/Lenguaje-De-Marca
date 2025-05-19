@@ -91,21 +91,20 @@ Cada carpeta o archivo corresponde a una actividad específica:
 - [Ex6.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/Ex6.xml)
 
 ### 🔄 JSON
-- [json-demo.htm](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/JSON/json-demo.htm)
-- [json-demo-array.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/JSON/json-demo-array.html)
+- [json-demo.htm](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/json/json-demo-array.html)
+- [json-demo-array.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/json/json-demo.html)
 - [json-nasa.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/JSON/json-nasa.html)
 
 ### 🌐 AJAX
 - [ajax-aemet.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/AJAX/ajax-aemet.html)
 - [ajax-cd-div.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/AJAX/ajax-cd-div.html)
-- [ajax-nasa.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/AJAX/ajax-nasa.html)
+- [ajax-nasa.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/json/json-nasa.html)
 
 ### 🧩 DOM
-- [dom-ex1.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/DOM/dom-ex1.html)
-- [dom-ex2.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/DOM/dom-ex2.html)
+- [dom-ejercicios.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/dom/dom-ejercicios.html)
 
 ### 📡 RSS
-- [rss-reader.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/RSS/rss-reader.html)
+- [rss-reader.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/rss/rss-reader.html)
 
 
 Cada actividad incluye:
