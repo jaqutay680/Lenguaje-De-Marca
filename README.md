@@ -21,6 +21,8 @@ Cada carpeta o archivo corresponde a una actividad específica:
 ## 🌐 Acceso rápido a los repositorios
 - [1º Trimestre - HTML](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/1%C2%BATRIMESTRE)
 - [2º Trimestre - CSS y JavaScript](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/2%C2%BATRIMESTRE)
+- [3º Trimestre - XML](https://github.com/jaqutay680/Lenguaje-De-Marca/tree/main/3%C2%BATRIMESTRE)
+
 ---
 ## 📂 Ejercicios del 1º Trimestre (HTML)
 
@@ -77,6 +79,32 @@ Cada carpeta o archivo corresponde a una actividad específica:
 ### 🚀 Proyecto Bootstrap
 - [Web Cupra](https://github.com/jaqutay680/ProyectoBootstrap)
 --------------------------------------------------------------------------
+## 📂 Ejercicios del 3º Trimestre (XML, JSON, AJAX, DOM, RSS)
+
+### 📄 XML
+- [ex1.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/ex1.xml)
+- [ex2.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/ex2.xml)
+- [ex3.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/ex3.xml)
+- [cd_catalog.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/cd_catalog.xml)
+
+### 🔄 JSON
+- [json-demo.htm](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/JSON/json-demo.htm)
+- [json-demo-array.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/JSON/json-demo-array.html)
+- [json-nasa.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/JSON/json-nasa.html)
+
+### 🌐 AJAX
+- [ajax-aemet.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/AJAX/ajax-aemet.html)
+- [ajax-cd-div.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/AJAX/ajax-cd-div.html)
+- [ajax-nasa.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/AJAX/ajax-nasa.html)
+
+### 🧩 DOM
+- [dom-ex1.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/DOM/dom-ex1.html)
+- [dom-ex2.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/DOM/dom-ex2.html)
+
+### 📡 RSS
+- [rss-reader.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/RSS/rss-reader.html)
+
+
 Cada actividad incluye:
 - Una estructura de código clara.
 - Uso de buenas prácticas de desarrollo web.
