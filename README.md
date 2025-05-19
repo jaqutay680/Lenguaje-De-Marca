@@ -82,10 +82,13 @@ Cada carpeta o archivo corresponde a una actividad específica:
 ## 📂 Ejercicios del 3º Trimestre (XML, JSON, AJAX, DOM, RSS)
 
 ### 📄 XML
-- [ex1.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/ex1.xml)
-- [ex2.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/ex2.xml)
-- [ex3.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/ex3.xml)
-- [cd_catalog.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/cd_catalog.xml)
+- [ex1.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/Ex1.xml)
+- [ex2.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/Ex2.xml)
+- [ex3-err.txt](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/ex3-err.txt)
+- [ex4.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/ex4.xml)
+- [Ex5a.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/Ex5a.xml)
+- [ex5b.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/Ex5b.xml)
+- [Ex6.xml](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/Ex6.xml)
 
 ### 🔄 JSON
 - [json-demo.htm](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/JSON/json-demo.htm)
