@@ -106,6 +106,8 @@ Cada carpeta o archivo corresponde a una actividad específica:
 ### 📡 RSS
 - [rss-reader.html](https://github.com/jaqutay680/Lenguaje-De-Marca/blob/main/3%C2%BATRIMESTRE/XML-Exercises/rss/rss-reader.html)
 
+## 🌐 Enlace del proyecto XML
+🔗 https://jaqutay680.github.io/Proyecto_XML/
 
 Cada actividad incluye:
 - Una estructura de código clara.
